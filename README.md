@@ -1,2 +1,2 @@
 .
-![nini](images/nini.png)
+![nini](nini.png)
