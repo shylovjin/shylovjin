@@ -4,33 +4,57 @@
 
 <div align="center">
 
-```
-　　　　　　♫ now playing
+<table>
+<tr>
 
-　　　　wasted summer
-　　　　　　×
-　　　　dove (doll ver.)
+<td width="90">
 
-```
+<img src="https://your-cover1.png" width="80"/>
 
-<img src="https://your-cover1.png" width="85">　　　<img src="https://your-cover2.png" width="85">
+</td>
+
+<td align="left">
+
+### wasted summer
+
+
+
+</td>
+
+<td width="40"></td>
+
+<td width="90">
+
+<img src="https://your-cover2.png" width="80"/>
+
+</td>
+
+<td align="left">
+
+### dove (doll ver.)
+
+
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-`juju<3`
-
-<br><br>
+```text
+        the summer disappeared quietly.
+           the dove never came home.
+```
 
 <sub>
 
-<font color="#8b2323">
+<font color="#7d1b1b">
 
-( every summer leaves a quieter version of me )
+( some memories stay longer than people )
 
 </font>
 
 </sub>
 
 </div>
-
-   
