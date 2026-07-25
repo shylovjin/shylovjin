@@ -1,12 +1,36 @@
 .
 ![Followers](https://img.shields.io/badge/Followers-1.7k-blue)
-
-
 ![](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=grey)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Hope+you+enjoy+your+stay+%3A3" />
-</p>
+<div align="center">
 
-   ![](https://count.getloli.com/@USERNAME?name=USERNAME&theme=gelbooru)
-![huk](huk.png)
+```
+　　　　　　♫ now playing
+
+　　　　wasted summer
+　　　　　　×
+　　　　dove (doll ver.)
+
+```
+
+<img src="https://your-cover1.png" width="85">　　　<img src="https://your-cover2.png" width="85">
+
+<br>
+
+`juju<3`
+
+<br><br>
+
+<sub>
+
+<font color="#8b2323">
+
+( every summer leaves a quieter version of me )
+
+</font>
+
+</sub>
+
+</div>
+
+   
