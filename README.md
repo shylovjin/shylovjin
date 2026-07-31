@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shylovjin&label=♥&color=6d0023&style=plastic" alt="Profile Views">
+</p>
+
 ![Minecraft](https://img.shields.io/badge/🩷_Minecraft-2A1A26?style=for-the-badge&logo=minetest&logoColor=FF8FB8)
 <table>
   <tr>
