@@ -1,12 +1,13 @@
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shylovjin&label=♥&color=6d0023&style=plastic" alt="Profile Views">
-</p>
+
 
 ![Minecraft](https://img.shields.io/badge/🩷_Minecraft-2A1A26?style=for-the-badge&logo=minetest&logoColor=FF8FB8)
 <table>
   <tr>
     <td>
-      <img src="hty.png" alt="Hty" width="300"> <p align="center">
+     <img src="hb.png" width="1200"> <img src="hty.png" alt="Hty" width="300"> <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=frox+%F0%9F%A4%A4%F0%9F%A4%A4" alt="Typing SVG" />
 
  
