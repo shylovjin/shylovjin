@@ -8,7 +8,7 @@
   <tr>
     <td>
      <img src="hb.png" width="1200"> <img src="hty.png" alt="Hty" width="300"> <img src="vf.png" width="350" <p align="center">   
-  <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=frox+%F0%9F%A4%A4%F0%9F%A4%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?
 
 
 </p>
