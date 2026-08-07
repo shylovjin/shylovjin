@@ -1,4 +1,3 @@
-.
-<p align="center">
-  <img src="IT.png" width="750">
+.p align="center">
+  <img src="OH WOW.jpg" width="800">
 </p>
