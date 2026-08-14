@@ -1,4 +1,2 @@
-I'm redoing my account—give me a moment...
-
-  <img src="OH WOW.jpg" width="800">
-</p>
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=%E2%9C%A7%20visitors&color=ff69b4&style=for-the-badge" alt="visitors">
+<img src="aw.png" width="500">
