@@ -1,4 +1,3 @@
- <img src="ko.png" width="100000">
 <div align="center">
   <img src="spokei.png" width="150">
 </div>
@@ -15,4 +14,16 @@
   <img src="etcu.gif" width="30">
 </div>
 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img src="ko.png" width="100000">
 
