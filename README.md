@@ -1,4 +1,8 @@
+<img src="00.gif" width="100">
+<div align="center">
 
+░░░░░░░░░░░░░░░░░
+<div align="center">
 <div align="center">
 <img src="frame.png" width="500">
 </div>
@@ -16,7 +20,7 @@
   <img src="etcu.gif" width="30">
 </div>
 
-
+░░░░░░░░░░░░░░░░░
  
  
  
