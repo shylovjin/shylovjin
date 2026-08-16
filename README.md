@@ -27,5 +27,4 @@
  
  
  
- <img src="ko.png" width="100000">
 
