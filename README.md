@@ -1,4 +1,4 @@
- <img src="ol.png" width="2000">
+
 <div align="center">
  ⠀⠀ ⠀⠀⠀⠀₊‎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀‎๋‎⠀
 <div align="center">
@@ -23,7 +23,14 @@
  ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀‎
 
 
-<img src="hqq.gif" width="20"> 𝓗𝓮𝓵𝓵𝓸 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼: @oazna @vampiremisery <img src="hqq.gif" width="20">
+<img src="hqq.gif" width="20"> <svg xmlns="http://www.w3.org/2000/svg" width="600" height="80">
+  <text x="50%" y="55"
+        text-anchor="middle"
+        font-size="32"
+        fill="#FFE5CC">
+    𝓑𝓵𝓪𝓬𝓴 𝓛𝓲𝓼𝓽 @ozana & @vampiremisery
+  </text>
+</svg> <img src="hqq.gif" width="20">
 
 
 
