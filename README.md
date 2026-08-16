@@ -22,9 +22,13 @@
 
 ░░░░░░░░░░░░░░░░░
 
+
+
 <img src="hqq.gif" width="20"> 𝓗𝓮𝓵𝓵𝓸 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼: @oazna @vampiremisery <img src="hqq.gif" width="20">
 
+
  
+ <img src="ol.png" width="2000">
  
  
  
