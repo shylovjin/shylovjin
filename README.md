@@ -1,5 +1,5 @@
 <div align="center">
-<img src="frame.png" width="300">
+<img src="frame.png" width="500">
 </div>
 <div align="center">
   <img src="hqq.gif" width="20">
