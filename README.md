@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./gt.svg" alt="𝓑𝓵𝓪𝓬𝓴 𝓛𝓲𝓼𝓽 @oazna @vampiremisery">
+</p>
 <div align="center">
  ⠀⠀ ⠀⠀⠀⠀₊‎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀‎๋‎⠀
 <div align="center">
