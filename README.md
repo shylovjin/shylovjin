@@ -28,7 +28,7 @@
         text-anchor="middle"
         font-size="32"
         fill="#FFE5CC">
-    𝓑𝓵𝓪𝓬𝓴 𝓛𝓲𝓼𝓽 @ozana & @vampiremisery
+<h2 align="center">𝓑𝓵𝓪𝓬𝓴 𝓛𝓲𝓼𝓽  @oazna  @vampiremisery</h2>
   </text>
 </svg> <img src="hqq.gif" width="20">
 
