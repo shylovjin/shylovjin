@@ -33,8 +33,9 @@
 <h2 align="center">𝓑𝓵𝓪𝓬𝓴 𝓛𝓲𝓼𝓽  @oazna  @vampiremisery</h2>
   </text>
 </svg> <img src="hqq.gif" width="20">
-
-
+ <p align="center">
+ <img src="love.png" width="170">
+<p align="center">
 
  
  <img src="ol.png" width="2000">
